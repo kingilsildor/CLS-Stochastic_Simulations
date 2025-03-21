@@ -1,3 +1,9 @@
+# Note!
+Based on the following repo's:
+- (https://github.com/HarvestStars/HitAndMissIntegration)[https://github.com/HarvestStars/HitAndMissIntegration]
+- (https://github.com/HarvestStars/Predator-Prey-System)[https://github.com/HarvestStars/Predator-Prey-System]
+- (https://github.com/HarvestStars/DES_Simulation)[https://github.com/HarvestStars/DES_Simulation]
+
 # Objectives
 1. To understand the foundations of probability theory and how it is applicable to various stochastic processes
 2. To be able to construct and evaluate stochastic models to simulate various real-world systems from finance to biomedicine
